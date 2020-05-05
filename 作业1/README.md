@@ -1,2 +1,5 @@
-数据挖掘作业一
-所选数据集为Wine Reviews和Oakland Crime Statistics 2011 to 2016
+数据挖掘作业一  
+所选数据集为Wine Reviews和Oakland Crime Statistics 2011 to 2016  
+对两个数据集进行了标称属性与数值属性分析  
+对数值属性进行了直方图和盒图可视化  
+并采用四种方式填充缺失值，并对比填充前后的图像
