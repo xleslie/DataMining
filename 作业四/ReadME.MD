@@ -1,0 +1,2 @@
+作业四：离群点分析与异常检测  
+本次作业所用的数据集为abalone_benchmarks与wine_benchmarks，共使用了pyod包中的六种算法来进行比较：ABOD、KNN、FeatureBagging、HBOS、Isolation Forest、LOF
